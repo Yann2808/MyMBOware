@@ -2,7 +2,7 @@
 This project located on branch master.
 
 For project initialization, follow these steps :
-1. Clone the project using ```git clone https://github.com/Yann2808/MyMBOware```
+1. Download the project src folder or clone it using ```git clone https://github.com/Yann2808/MyMBOware```
 2. On Command Line Interface (CLI), go to the clone repository with ```cd```
 3. Use ```git checkout master``` te switch on branch master
 4. Install project dependencies with ```composer install```
